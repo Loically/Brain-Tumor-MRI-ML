@@ -1,13 +1,6 @@
 # Brain-Tumor-MRI-ML
 Welcome to the Brain Tumor MRI Image Classification repository! This comprehensive guide will walk you through the process of leveraging the power of transfer learning using DenseNet121 for the accurate classification of brain tumor MRI images. Whether you are a researcher, a medical professional, or an AI enthusiast, this repository is your one-stop resource for understanding, implementing, and fine-tuning a deep learning model that can aid in the critical task of diagnosing brain tumors from medical images.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Datasets](#datasets)
-- [Model Architecture](#model-architecture)
-- [Training](#training)
-- [Evaluation](#evaluation)
-
 ## Introduction
 Medical image classification, especially in the context of brain tumor detection, is a challenging and vital task in the field of healthcare. Accurate and efficient identification of brain tumors from MRI scans can significantly impact patient outcomes and streamline clinical workflows. Transfer learning, a technique that leverages pre-trained neural network architectures, has proven to be a game-changer in this domain.
 
