@@ -5,10 +5,10 @@ Welcome to the Brain Tumor MRI Image Classification repository, a showcase of my
 In the realm of medical diagnostics, the accurate classification of brain tumor MRI images is of paramount importance for timely and effective patient care. Leveraging the power of transfer learning and the robust DenseNet121 architecture, this project showcases my ability to develop a cutting-edge solution for this critical task.
 
 ## Key Features
-- **Transfer Learning with DenseNet121**: We utilize the pre-trained DenseNet121 model, fine-tuned on a dataset of brain tumor MRI images. Transfer learning allows us to benefit from a pre-trained model's knowledge and adapt it to our specific classification task.
+- **Transfer Learning with DenseNet121**: I utilize the pre-trained DenseNet121 model, fine-tuned on a dataset of brain tumor MRI images. Transfer learning allows us to benefit from a pre-trained model's knowledge and adapt it to our specific classification task.
 - **Data Preprocessing**: Rigorous data preprocessing techniques ensure that the input images are appropriately prepared for the model. This includes image resizing and augmentation to enhance model generalization.
 - **Multi-class Classification**: The model is designed to classify brain tumor MRI images into multiple classes, enabling the differentiation of various tumor types and locations within the brain.
-- **Evaluation Metrics**: We employ standard evaluation metrics such as accuracy, precision, recall, and F1-score to assess the model's performance, ensuring reliable and interpretable results.
+- **Evaluation Metrics**: I'm using standard evaluation metrics such as accuracy, precision, recall, and F1-score to assess the model's performance, ensuring reliable and interpretable results.
 - **Visualization**: Visualizations of model predictions provide insights into the model's decision-making process, helping to interpret its predictions.
 
 ## Datasets:
