@@ -12,7 +12,7 @@ In the realm of medical diagnostics, the accurate classification of brain tumor 
 - **Visualization**: Visualizations of model predictions provide insights into the model's decision-making process, helping to interpret its predictions.
 
 ## Datasets:
-- [brain-tumor-mri-dataset](masoudnickparvar/brain-tumor-mri-dataset)
+- [brain-tumor-mri-dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
 the dataset splitted into:
 - Train (5712 images)
